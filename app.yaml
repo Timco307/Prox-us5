@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: Prox-us5
+owner: timco307
+package: .
