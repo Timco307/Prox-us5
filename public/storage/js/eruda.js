@@ -97,7 +97,7 @@ function inspectelement() {
   const iframe = document.querySelector('.tab-iframe.active');
   if (!iframe || !iframe.contentWindow) {
     console.error(
-      "Iframe not found or inaccessible. \\(Â°â–¡Â°)/ (This shouldn't happen btw)"
+      "Iframe not found or inaccessible. \\(°□°)/ (This shouldn't happen btw)"
     );
     return;
   }

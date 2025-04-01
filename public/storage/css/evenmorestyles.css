@@ -1,6 +1,6 @@
 body {
     color: #fff;
-   /* background: url('/storage/images/bg.gif') center center fixed no-repeat; */
+    background: url('/storage/images/bg.gif') center center fixed no-repeat;
     background-color: black;
     background-size: cover;
     font-family: "Outfit", sans-serif;
@@ -17,7 +17,7 @@ body {
 
 h1 {
     font-size: 3rem;
-    color: white;
+    color: #FFD700;
     margin: 0;
     padding-top: 20px;
     font-weight: 700;
@@ -67,7 +67,7 @@ h1 {
 .search-bar-home {
     padding: 20px 30px;
     width: 350px;
-    border: 2px solid white;
+    border: 2px solid #FFD700;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 50px 0 0 50px;
     font-family: "Outfit", sans-serif;
@@ -81,13 +81,13 @@ h1 {
 
 .search-bar-home:focus {
     background-color: rgba(0, 0, 0, 0.7);
-    border-color: white;
+    border-color: #FFD700;
 }
 
 #search-button {
     padding: 20px 40px;
     border: none;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: #FFD700;
     color: #1a1a1a;
     border-radius: 0 50px 50px 0;
     cursor: pointer;
@@ -106,7 +106,7 @@ h1 {
 }
 
 #search-button:hover {
-    background-color: rgba(255, 255, 255, 0.07);
+    background-color: #e6c34e;
     transform: translateY(-2px);
 }
 
